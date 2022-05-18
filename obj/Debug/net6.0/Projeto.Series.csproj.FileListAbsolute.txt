@@ -1,0 +1,15 @@
+C:\Users\Daniel Moda\Projeto.Series\obj\Debug\net6.0\Projeto.Series.csproj.AssemblyReference.cache
+C:\Users\Daniel Moda\Projeto.Series\obj\Debug\net6.0\Projeto.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Moda\Projeto.Series\obj\Debug\net6.0\Projeto.Series.AssemblyInfoInputs.cache
+C:\Users\Daniel Moda\Projeto.Series\obj\Debug\net6.0\Projeto.Series.AssemblyInfo.cs
+C:\Users\Daniel Moda\Projeto.Series\obj\Debug\net6.0\Projeto.Series.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Moda\Projeto.Series\bin\Debug\net6.0\Projeto.Series.exe
+C:\Users\Daniel Moda\Projeto.Series\bin\Debug\net6.0\Projeto.Series.deps.json
+C:\Users\Daniel Moda\Projeto.Series\bin\Debug\net6.0\Projeto.Series.runtimeconfig.json
+C:\Users\Daniel Moda\Projeto.Series\bin\Debug\net6.0\Projeto.Series.dll
+C:\Users\Daniel Moda\Projeto.Series\bin\Debug\net6.0\Projeto.Series.pdb
+C:\Users\Daniel Moda\Projeto.Series\obj\Debug\net6.0\Projeto.Series.dll
+C:\Users\Daniel Moda\Projeto.Series\obj\Debug\net6.0\refint\Projeto.Series.dll
+C:\Users\Daniel Moda\Projeto.Series\obj\Debug\net6.0\Projeto.Series.pdb
+C:\Users\Daniel Moda\Projeto.Series\obj\Debug\net6.0\Projeto.Series.genruntimeconfig.cache
+C:\Users\Daniel Moda\Projeto.Series\obj\Debug\net6.0\ref\Projeto.Series.dll
